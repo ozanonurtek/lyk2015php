@@ -20,7 +20,7 @@ Linux Yaz Kampı 2015 PHP Eğitiminde yazılan dosyalar.
 - [Melike Topçu](https://github.com/MelikeTopcu/lyk2015php)
 - [Muhammet Talha Şahin](https://github.com/mtalhasahin/lyk2015php)
 - [Ömer İpek](https://github.com/omeripek/lyk2015php)
-- [Ozan Onur Tek](https://github.com/rateltech/lyk15)
+- [Ozan Onur Tek](https://github.com/ozanonurtek)
 - [Özgül Çolakoğlu](https://github.com/ozgulcolakoglu/lyk2015)
 - [Özgür Bayraktaroğlu](https://github.com/ozgurturkiye/lyk2015php)
 - [Şahin Eğilmez](https://github.com/turkas64/lyk2015php)
